@@ -2,13 +2,13 @@
 
 Combined third-party notices for Skyhook (operator, CLI, agent).
 
-Operator tag: `operator/v0.20.0`
-Agent tag: `agent/v7.0.0`
-Chart tag: `chart/v0.20.0`
+Operator tag: `unreleased`
+Agent tag: `unreleased`
+Chart tag: `unreleased`
 
 ## Operator + CLI
 
-Operator tag: `operator/v0.20.0`
+Operator tag: `unreleased`
 
 ### Index
 
@@ -20052,7 +20052,7 @@ Apache license:
 
 ## Agent
 
-Agent tag: `agent/v7.0.0`
+Agent tag: `unreleased`
 
 ### Go Dependencies
 
